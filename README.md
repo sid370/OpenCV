@@ -8,5 +8,7 @@ Ensure, your webcam works fine.
 
 General Instructions:
 q-> Quit
+
 Right Click-> Co-ordinates
+
 Left Click-> RGB values
